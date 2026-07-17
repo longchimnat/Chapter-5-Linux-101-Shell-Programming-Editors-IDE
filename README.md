@@ -114,6 +114,11 @@ Hoàn thành câu lệnh ta được như này:
 <img width="687" height="946" alt="image" src="https://github.com/user-attachments/assets/08559542-647e-4795-a20c-99719e93bab6" />
 
 ## LAB 7 — VS Code + Python trên Raspberry Pi (VNC/Desktop)
+<img width="908" height="481" alt="image" src="https://github.com/user-attachments/assets/1b54a769-fb77-4b26-8f78-82170d628a4c" />
+
+Hoàn thành câu lệnh trên ta được như này:
+
+<img width="2558" height="1599" alt="image" src="https://github.com/user-attachments/assets/ee48fafc-12e3-4b7a-a561-9b5dbbf4fd6f" />
 
  
 
