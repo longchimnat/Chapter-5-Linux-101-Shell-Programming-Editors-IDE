@@ -106,6 +106,14 @@ Hoàn thành các câu lệnh trên ta được như này:
 <img width="752" height="843" alt="image" src="https://github.com/user-attachments/assets/c0ad7a48-ed04-4aff-894d-805e2a5c969a" />
 
 ### 6B. Script sao lưu — `sysbackup.sh` (tự viết, có gợi ý)
+<img width="983" height="1104" alt="image" src="https://github.com/user-attachments/assets/a8578f7b-ee5e-4e3f-aa10-8b2036a68ae6" />
+
+Hoàn thành câu lệnh ta được như này:
+
+<img width="1239" height="486" alt="image" src="https://github.com/user-attachments/assets/f15b7853-14ea-4641-a44c-589edae646cb" />
+<img width="687" height="946" alt="image" src="https://github.com/user-attachments/assets/08559542-647e-4795-a20c-99719e93bab6" />
+
+## LAB 7 — VS Code + Python trên Raspberry Pi (VNC/Desktop)
 
  
 
